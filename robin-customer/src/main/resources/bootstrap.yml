@@ -1,0 +1,9 @@
+server:
+  port: 8763
+spring:
+  application:
+    name: customer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.31.0.77:8848
