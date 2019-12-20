@@ -4,7 +4,7 @@ spring:
   profiles:
     active: dev
   application:
-    name: config
+    name: user
   cloud:
     nacos:
       discovery:
@@ -12,4 +12,4 @@ spring:
       config:
         server-addr: 172.31.0.77:8848
         file-extension: yml
-        prefix: config
+        prefix: user

@@ -12,6 +12,7 @@
         <module>robin-nacos</module>
         <module>robin-customer</module>
         <module>robin-user</module>
+        <module>robin-data</module>
     </modules>
 
     <dependencyManagement>
