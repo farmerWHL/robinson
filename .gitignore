@@ -1,0 +1,37 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### webapp ###
+npm-debug.log
+node_modules
+.project
+.vscode
+.history
+.idea
+.DS_Store
+\.settings/
+
+.log
+
+*.jar
+.jar
+log.path_IS_UNDEFINED
+offline-scanning.log
+
+*.log
+rebel*.xml
+.env
